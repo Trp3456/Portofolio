@@ -1,5 +1,5 @@
 # Flotation
-Source: kaggle datasets download -d veeralakrishna/froth-flotation  
+Source: [Kaggle, Froth Flotation](https://www.kaggle.com/datasets/veeralakrishna/froth-flotation)
 Objective  : Find important variable in Flotation process and it's effects
 Data       : Flotation  
 Tools      : Python (Pandas, Scikit-learn)  
